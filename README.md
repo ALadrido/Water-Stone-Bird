@@ -1,0 +1,2 @@
+# Water-Stone-Bird
+This Game is a variation of Rock Paper Scissors, Created In Python. The User Inputs Either Stone, Water, Or Bird And The Computer Generates A Random Guess Against The Player, If The Player Wins, It Outputs The Win, If Not, It outputs a losing Message. The Random Answers Are Generated Using A Random Number Generator Between 1 and 3, With String Assign To Each Number Value, The Random Number Is Generated and The Associated String Outputs The Computer Answer.
